@@ -1,1 +1,1 @@
-# everyone-game-config
+# Everyone Game Configs
