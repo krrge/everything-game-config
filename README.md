@@ -1,4 +1,4 @@
-# Everyone Game Configs
+# Everything Game Configs
 
 このリポジトリは、今までプレイしたことのあるゲームで使用したコンフィグファイルを公開しています。
 
